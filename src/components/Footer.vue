@@ -5,7 +5,6 @@
                 <img src="../assets/images/podcast.png" alt="podcast icon" width="40">
                 <ul class="flex text-white uppercase gap-12 text-xs">
                     <li class="cursor-pointer">Features</li>
-                    <li class="cursor-pointer">Pricing</li>
                     <li class="cursor-pointer">Contact</li>
                 </ul>
             </div>
